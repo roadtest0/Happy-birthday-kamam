@@ -44,8 +44,8 @@ body {
 .one > img {
   vertical-align: middle;
   margin-bottom: 10px;
-  max-width: 70%;
-  height: 40%;
+  max-width: 100%;
+  height: auto;
 }
 
 .two {
